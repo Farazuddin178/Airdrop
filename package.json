@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "saketh is pro",
+  "main": "saketh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farazuddin178/faraz1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farazuddin178/faraz1/issues"
+  },
+  "homepage": "https://github.com/Farazuddin178/faraz1#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "inspirational-quotes": "^2.0.1"
+  }
+}
